@@ -1,0 +1,10 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /usr/share/filebeat/djangologs/*.log
+  multiline.pattern: '^\['
+  multiline.negate: true
+  multiline.match: after
+output.logstash:
+  hosts: ["logstash:5044"]

@@ -1,0 +1,18 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+<h1>Search</h1>
+<form action="{% url 'main:search' %}" method="get">
+  <input name="q" type="text" placeholder="Search...">
+</form>
+{% if object_list %}
+<ul>
+{% for row in object_list %}
+    <li><a href="{% url row.url row.id %}">{{ row.score }} - {{ row.text }} </a></li>
+{% empty %}
+    No objects matched this query.
+{% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

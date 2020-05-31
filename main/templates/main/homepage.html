@@ -1,0 +1,15 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+<h1>Views</h1>
+<ul>
+    <li><a href="{% url 'main:search' %}">Search</a></li>
+    <li><a href="{% url 'main:song-list' %}">Songs</a></li>
+    <li><a href="{% url 'main:artist-list' %}">Artists</a></li>
+    <li><a href="{% url 'main:album-list' %}">Albums</a></li>
+    <li><a href="{% url 'main:genre-list' %}">Genres</a></li>
+    <li><a href="{% url 'main:label-list' %}">Labels</a></li>
+</ul>
+
+{% endblock %}

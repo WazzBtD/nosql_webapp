@@ -1,0 +1,15 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+{% if user.is_authenticated %}
+You are already logged in.
+{% else %}
+<form method="POST">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button style="background-color:#F4EB16; color:blue" class="btn btn-outline-info" type="submit">Login</button>
+</form>
+
+Don't have an account? <a href="/signup" target="blank"><strong>register here</strong></a>!
+{% endif %}
+{% endblock %}

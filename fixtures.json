@@ -1,0 +1,609 @@
+[
+{
+	"model": "main.artist",
+	"pk": 1,
+	"fields": {
+		"name": "Lady Pank",
+		"bio": "Polski zespół muzyczny założony w 1981 roku we Wrocławiu przez Jana Borysewicz i Andrzeja Mogielnickiego. Jedna z najpopularniejszych grup w historii polskiego rocka. Zespół wydał ponad 20 płyt i dziesiątki przebojów, m.in. „Mniej niż zero”, „Wciąż bardziej obcy”, „Kryzysowa narzeczona”, „Zawsze tam, gdzie ty”. Nazwa grupy pochodzi od tytułu pierwszego nagrania „Mała Lady Punk” (z nieco zmienioną pisownią). Pierwszy oficjalny koncert pod szyldem Lady Pank zespół zagrał w czteroosobowym składzie (Jan Borysewicz – wokal, gitara; Edmund Stasiak – gitara; Paweł „Kawka” Mielczarek – gitara basowa; Andrzej Polak – perkusja) 14 sierpnia 1982 roku z okazji otwarcia studenckiego klubu Park.",
+		"rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 2,
+	"fields": {
+		"name": "Perfect",
+	        "bio": "Polski zespół muzyczny wykonujący muzykę rockową, założony w 1977 roku w Warszawie z inicjatywy perkusisty Wojciecha Morawskiego, gitarzysty basowego Zdzisława Zawadzkiego (obaj poprzednio byli członkami grupy Breakout), wokalistek Ewy Konarzewskiej i Barbary Trzetrzelewskiej. Największe przeboje grupy to, m.in. „Nie płacz Ewka”, „Chcemy być sobą”, „Ale wkoło jest wesoło”, „Niewiele ci mogę dać”, „Autobiografia”. W 1993 zespół reaktywował się (bez udziału współzałożyciela i autora większości kompozycji Zbigniewa Hołdysa) i działał do 2020 roku.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 3,
+	"fields": {
+		"name": "Dżem",
+	        "bio": "Polski zespół muzyczny grający muzykę z pogranicza rocka i bluesa, który w 1973 roku założyli bracia Adam i Beno Otrębowie oraz Paweł Berger. Zaliczany do najważniejszych zespołów w historii polskiej muzyki rockowo-bluesowej. W grudniu 1973 roku do zespołu dołączył wokalista Ryszard Riedel, a następnie w 1978 roku – gitarzysta Jerzy Styczyński. W latach 1973-1979 działalność formacji była bardzo nieregularna i aż do 1980 roku miała status amatorski. Po występach na kilkunastu festiwalach w Polsce, w tym debiut na festiwalu w Jarocinie, oraz zagranicznej trasie koncertowej 1985 roku ukazał się debiutancki album studyjny – Cegła.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 4,
+	"fields": {
+		"name": "Aerosmith",
+	        "bio": "Amerykański zespół rockowy pochodzący z Bostonu w Massachusetts i grający w charakterystycznym stylu, będącym mieszanką hard rocka i bluesa. Szacowany nakład ze sprzedaży wszystkich albumów zespołu na całym świecie wynosi 150 milionów egzemplarzy. Są jednym z zespołów z największą liczbą sprzedanych albumów w historii. Szacuje się, że do 2008 zarobili ponad 100 milionów dolarów.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 5,
+	"fields": {
+		"name": "Queen",
+	        "bio": "Brytyjski zespół rockowy utworzony w 1970 w Londynie przez Briana Maya, Rogera Taylora i Freddiego Mercury’ego. Muzyka Queen odznacza się różnorodnością brzmienia, sprawiającą, że zespół trudno jest przypisać do konkretnego stylu. Większość utworów nosi cechy rocka i jego odmian (hard rock, rock progresywny) oraz, w pewnym stopniu, muzyki pop. Charakterystyczną cechą zespołu są też wielowarstwowe aranżacje, harmonie wokalne oraz aktywny udział publiczności podczas koncertów.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 6,
+	"fields": {
+	        "name": "Łzy",
+	        "bio": "Polski zespół muzyczny grający muzykę z gatunku pop-rock, założony w 1996 w Pszowie. Zespół wydał osiem albumów studyjnych, z czego dwa – W związku z samotnością (wydany w 2000) i Nie czekaj na jutro (2003) – uzyskały status platynowej płyty za wysoką sprzedaż w Polsce. ",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 7,
+	"fields": {
+	        "name": "Brathanki",
+	        "bio": "Polski zespół muzyczny, założony w 1998 roku, wykonujący muzykę z pogranicza folku, popu i rocka. Zespół powstał z inicjatywy Janusza Musa, który zaprosił do współpracy instrumentalistów, występujących m.in. z Marylą Rodowicz, Renatą Przemyk, Edytą Górniak i Justyną Steczkowską. W 2000 roku ukazał się debiutancki album studyjny grupy, zatytyłowany Ano!. Na płycie znalazły się przeboje, takie jak m.in. „Czerwone korale” czy „Gdzie ten który powie mi”.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 8,
+	"fields": {
+	        "name": "Maanam",
+	        "bio": "Polski zespół rockowy powstały w Krakowie, działający w latach 1975–2008.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 9,
+	"fields": {
+	        "name": "Budka Suflera",
+	        "bio": "Polski zespół rockowy założony w Lublinie w 1974 roku przez Krzysztofa Cugowskiego i Romualda Lipkę. Osobą łączącą prawie wszystkie składy od momentu powstania grupy jest perkusista Tomasz Zeliszewski.",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.artist",
+	"pk": 10,
+	"fields": {
+	        "name": "T.Love ",
+	        "bio": "Polski zespół muzyczny założony w 1982 w Częstochowie. W początkach kariery, w latach 80. XX wieku, pozostający pod wpływem punk rocka, a z upływem czasu korzystający również ze stylistyki reggae, rock and rolla, glam rocka, pop rocka. W trakcie dotychczasowej kariery zespół zagrał koncerty prawie w całej Europie, a także wielokrotnie w Stanach Zjednoczonych. ",
+	        "rating": 3.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 1,
+	"fields": {
+	        "title": "Lady Pank",
+	        "description": "Debiutancki album zespołu Lady Pank. Płyta uważana jest za najważniejszą w dorobku zespołu, a także za jedną z ważniejszych w historii polskiego rocka.  ",
+	        "published": "1983-06-20",
+	        "rating": 4.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 2,
+	"fields": {
+	        "title": "Tacy sami",
+	        "description": "Siódmy album zespołu Lady Pank, wydany w 1988 roku. Płyta jest całkowitym odejściem zespołu od stylu znanego dotychczas fanom z poprzednich albumów. Przede wszystkim jest to album pop-rockowy.  ",
+	        "published": "1988-05-07",
+	        "rating": 4.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 3,
+	"fields": {
+	        "title": "Perfect",
+	        "description": " Debiutancki studyjny album zespołu Perfect wydany w 1981 za pośrednictwem wytwórni Polskie Nagrania „Muza” na płycie gramofonowej i kasecie magnetofonowej, jedynie na terenie Polski.",
+	        "published": "1981-02-15",
+	        "rating": 23.0
+	    }
+},
+{
+	"model": "main.album",
+	"pk": 4,
+	"fields": {
+	        "title": "Cegła",
+	        "description": "pierwszy studyjny album polskiego zespołu muzycznego Dżem, wydany w październiku 1985 nakładem wytwórni Polskie Nagrania „Muza”.",
+	        "published": "1985-01-28",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 5,
+	"fields": {
+	        "title": "Get a Grip",
+	        "description": "Jedenasty album studyjny amerykańskiego zespołu Aerosmith, wydany w kwietniu 1993 nakładem wytwórni Geffen Records.",
+	        "published": "1993-04-20",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 6,
+	"fields": {
+	        "title": "A Night at the Opera",
+	        "description": "Album rockowy brytyjskiej grupy Queen, wydany w 1975. Jego producentami byli Roy Thomas Baker i Queen. Pierwotnie wydany przez EMI w Wielkiej Brytanii, gdzie utrzymywał się przez dziewięć tygodni oraz przez Elektra Records w Stanach Zjednoczonych, gdzie album osiągnął 4. miejsce i uzyskał status trzykrotnej platynowej płyty (3 miliony sprzedanych egzemplarzy).",
+	        "published": "1975-11-21",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 7,
+	"fields": {
+	        "title": "W związku z samotnością",
+	        "description": "Druga płyta zespołu Łzy, wydana pierwotnie w lipcu 2000 roku, a rok później wznowiona przez Pomaton EMI. Przyniosła ona grupie duży sukces. Album zrealizował Grzegorz Kubek w studio Deo Recording w Wiśle.",
+	        "published": "2000-07-01",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 8,
+	"fields": {
+	        "title": "Ano!",
+	        "description": "Debiutancki album zespołu Brathanki, wydany 27 marca 2000 roku nakładem Sony Music Entertainment Poland. Album został sprzedany w nakładzie 270 tys. sztuk. Nagrania dotarły do 5. miejsca listy OLiS",
+	        "published": "2000-03-27",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 9,
+	"fields": {
+	        "title": "Maanam ",
+	        "description": "Debiutancki album studyjny zespołu Maanam wydany w 1981 roku przez wytwórnię płytową Wifon. Nagrania zrealizowano w studio Rozgłośni PR w Lublinie, w dniach: 25.08-10.09.1980 r. Realizacja nagrań: Andrzej Poniatowski i Włodzimierz Kowalczyk.",
+	        "published": "1981-08-25",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 10,
+	"fields": {
+	        "title": "1974–1984",
+	        "description": "Album kompilacyjny Budki Suflera wydany w 1984 roku. Album zawiera m.in. znane utwory zespołu w nowych aranżacjach i został zrealizowany z uwagi na słabe warunki techniczne oryginalnych wersji utworów.",
+	        "published": "1984-05-10",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.album",
+	"pk": 11,
+	"fields": {
+	        "title": "Chłopaki nie płaczą",
+	        "description": "Płyta zespołu T.Love, wydana w 1997 przez wytwórnię płytową Pomaton EMI.",
+	        "published": "1997-09-15",
+	        "rating": 23.0
+	}
+},
+{
+	"model": "main.label",
+	"pk": 1,
+	"fields": {
+	        "name": "Tonpress",
+	        "address": "Warszawa, Polska"
+	}
+},
+{
+	"model": "main.label",
+	"pk": 2,
+	"fields": {
+	        "name": "Polskie Nagrania „Muza”",
+	        "address": "Warszawa, Polska"
+	}
+},
+{
+	"model": "main.label",
+	"pk": 3,
+	"fields": {
+	        "name": "Geffen Records",
+	        "address": "Kalifornia, Stany Zjednoczone"
+	}
+},
+{
+	"model": "main.label",
+	"pk": 4,
+	"fields": {
+	        "name": "EMI Group",
+	        "address": "Londyn, Wielka Brytania"
+	}
+},
+{	"model": "main.label",
+	"pk": 5,
+	"fields": {
+	        "name": "Pomaton EMI",
+	        "address": "Warszawa, Polska"
+	}
+},
+{
+	"model": "main.label",
+	"pk": 6,
+	"fields": {
+	        "name": "Sony Music Entertainment Poland",
+	        "address": "Warszawa, Polska"
+	}
+},
+{
+	"model": "main.label",
+	"pk": 7,
+	"fields": {
+	        "name": "Wifon",
+	        "address": "Warszawa, Polska"
+	}
+},
+{
+	"model": "main.genre",
+	"pk": 1,
+	"fields": {
+	        "name": "Rock",
+	        "description": "Gatunek muzyki rozrywkowej powstały w połowie XX wieku w Stanach Zjednoczonych i ogólna nazwa szeregu stylów muzycznych wywodzących się z rock and rolla. Wszystkie style rockowe charakteryzują się brzmieniem opartym na różnego rodzaju gitarach (zwykle elektrycznych, elektrycznych basowych) i perkusji, z wyraźnie zarysowanym rytmem i śpiewem."
+	}
+},
+{
+	"model": "main.genre",
+	"pk": 2,
+	"fields": {
+		"name": "Pop",
+	        "description": "Muzyka pop - ogólnie muzyka popularna, termin ten jest jednak wieloznaczny, w najszerszym sensie oznacza każdy rodzaj muzyki rozrywkowej, niezależnie od jej charakteru."
+	}
+},
+{
+	"model": "main.song",
+	"pk": 1,
+	"fields": {
+	        "title": "Mniej niż zero",
+	        "language": "Polski",
+	        "length": 404,
+	        "lyrics": "Oooo, oooo, oooo ooo \n Myślisz może, że więcej coś znaczysz \n Bo masz rozum, dwie ręce i chęć \n Twoje miejsce na Ziemi tłumaczy \n Zaliczona matura na pięć \n Są tacy - to nie żart \n Dla których jesteś wart \n Mniej niż zero \n Mniej niż zero \n Mniej niż zero \nMniej niż zero \n Oooo oooo oooo \n Zawodowi macherzy od losu \n Specjaliści od śpiewu i mas \n Choćbyś nie chciał i tak znajdą sposób \n Na swej wadze położą nie raz \n Choć to fizyce wbrew \n Wskazówka cofa się\n Mniej niż zero \n Mniej niż zero \n Mniej niż zero  \n Mniej niż zero  \n Oooo oooo oooo oooo \n Myślisz może, że więcej coś znaczysz \n Bo masz rozum, dwie ręce i chęć \n Twoje miejsce na Ziemi tłumaczy  \n Zaliczona matura na pięć \n Są tacy - to nie żart \n Dla których jesteś wart \n Mniej niż zero \n Mniej niż zero \n Mniej niż zero \n Mniej niż zero \n Oooo oooo oooo oooo",
+	        "rating": 123.0,
+	        "published": "1983-06-20",
+	        "id_artist": 1,
+	        "id_album": 1,
+	        "id_genre": 1,
+	        "id_label": 1
+	}
+},
+{
+	"model": "main.song",
+	"pk": 2,
+	"fields": {
+	        "title": "Kryzysowa narzeczona",
+	        "language": "Polski",
+	        "length": 401,
+	        "lyrics": "Mogłaś moją być \n Kryzysową narzeczoną \n Razem ze mną pić  \n To, co nam tu nawarzono  \n Mogłaś moją być \n Przy zgłuszonym odbiorniku \n Aż po blady świt \n Słuchać nowin i uderzać w gaz \n Nie jeden raz \n Nie jeden raz\n Nie jeden raz \n Mogłaś być już na dnie \n A nie byłaś \n Nigdy nie dowiesz się \n Co straciłaś \n Mogłaś moją być \n Kryzysową narzeczoną \n Pomalutku żyć \n Tak jak nam tu naznaczono \n Mogłaś moją być \n Jakoś ze mną przebiedować \n Zamiast życzyć mi  \n Na pocztówce nie wiadomo skąd \n Wesołych świąt \n  Wesołych świąt \n  Wesołych świąt \n  Mogłaś być już na dnie \n  A nie byłaś \n  Nigdy nie dowiesz się \n  Co straciłaś  \n Mogłaś być już na dnie \n  A nie byłaś  \n Nigdy... Nigdy nie dowiesz się \n Mogłaś moją być \n Zamiast życzyć mi \n  Wesołych świąt  \n Wesołych świąt \n Wesołych świąt \n  Mogłaś być już na dnie  \n A nie byłaś \n  Nigdy nie dowiesz się \n Co straciłaś \n Mogłaś być już na dnie \n A nie byłaś \n  Nigdy... Nigdy nie dowiesz się",
+	        "rating": 1.0,
+	        "published": "1983-06-20",
+	        "id_artist": 1,
+	        "id_album": 1,
+	        "id_genre": 1,
+	        "id_label": 1
+	}
+},
+{
+	"model": "main.song",
+	"pk": 3,
+	"fields": {
+	        "title": "Fabryka małp",
+	        "language": "Polski",
+	        "length": 343,
+	        "lyrics": "Ktoś łapie mnie i zaciska palce \n Na gardle tak, że aż tracę dech \n Zabijam go, po morderczej walce \n Budzę się i \n Gdzie, już jestem wiem \n Fabryka małp \n Fabryka psów \n Rezerwat dzikich stworzeń \n Zajadłych tak \n Że nawet Bóg\n  I Bóg im nie pomoże \n Miliony kłów \n Łap, w pazury zbrojnych \n Gotowych do, walk o byle co \n Dokoła wre, stan totalnej wojny \n Zabijać się, to jedyny sport \n Fabryka małp \n  Fabryka psów \n Rezerwat dzikich stworzeń \n Zajadłych tak \n Że nawet Bóg \nI Bóg im nie pomoże \nNie pomoże \n  Nie pomoże  \n Gdzie spojrzę, dookoła dżungla \n Gdzie spojrzę, dookoła dżungla \n Dżungla  \n Dżungla  \n Otwieram drzwi, i  \n Znów dzień jak co dzień  \n Donośny huk, 100 i więcej dział \n Coś dzieje się, wciąż na bliskim wschodzie \n Za progiem znów, mój normalny świat \n  Fabryka małp \n Fabryka psów  \n Rezerwat dzikich stworzeń \nZajadłych tak \n Że nawet Bóg \n I Bóg im nie pomoże \n Fabryka małp \n Fabryka psów \n Rezerwat dzikich stworzeń \n Zajadłych tak \n Że nawet Bóg \n I Bóg im nie pomoże",
+	        "rating": 123.0,
+	        "published": "1983-06-20",
+	        "id_artist": 1,
+	        "id_album": 1,
+	        "id_genre": 1,
+	        "id_label": 1
+	}
+},
+{
+	"model": "main.song",
+	"pk": 4,
+	"fields": {
+		"title": "Tacy sami",
+	        "language": "Polski",
+	        "length": 423,
+	        "lyrics": "Samotna i zła \n Jakbyś z planety była zimnej \n Tak to długo trwa \n Że nikt nigdy nie znał ciebie innej \n Daleka jak sen\n  Wciąż nie dostrzegasz spraw i ludzi \n A gdzieś czeka ten  \n Który kiedyś wreszcie cię obudzi \nTak dobrze cię znam\n Chyba nawet lepiej niż ty siebie\n Jestem taki sam\n Wciąż widzę setki plam na niebie \n Nieufność to mgła \n Co przynosi tylko ciszę \n Jak klatka ze szkła \n Nie pozwala nam się słyszeć \n Tacy sami, a ściana między nami\n Tacy sami\n Tacy sami, a ściana między nami\n Tacy sami \n I nie mów mi, nie \n Że czasem takie życie się opłaca \n Sama dobrze wiesz \n Że co dzień tracisz coś, co już nie wraca \n Samotność to pies \n Co kąsa tak bez uprzedzenia\n  Ja wiem jak to jest \n Znam to przecież, znam, aż do znudzenia \n Tacy sami, a ściana między nami \n Tacy sami \n Tacy sami, a ściana między nami \n Tacy sami \n Tacy sami\n  Tacy sami \n Tacy sami \n Tacy sami\n Tacy sami, a ściana między nami\n  Tacy sami\n  Tacy sami, a ściana między nami \n Tacy sami \n Tacy sami, a ściana między nami \n Tacy sami \n Tacy sami, a ściana między nami \n  Tacy sami",
+	        "rating": 123.0,
+	        "published": "1988-05-07",
+	        "id_artist": 1,
+	        "id_album": 2,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+},
+{
+	"model": "main.song",
+	"pk": 5,
+	"fields": {
+	        "title": "Zostawcie Titanica",
+	        "language": "Polski",
+	        "length": 448,
+	        "lyrics": "Ja wierzę, oni tańczą wciąż \n Oni żyją swoim życiem \nI dopłyną tam gdzie chcą \n I wierzę w ich podwodny świat \n A orkiestra, która grała \n Do tej chwili gra \n Piękna aktorka \n Mierzy kolię swą \n Kelner się potknął \n Pada twarzą w tort\n  Nieprawda, że już nie ma ich\n  Oni płyną, tylko wolniej\n Tak jak wolno płyną sny \n I nieprawda, nie znajdziecie ich\n Tyle mil już przepłynęli\n Tyle przetańczyli dni \n Młody milioner \n Dziś zakochał się \n Bal już się zaczął\n Wszyscy tańczą - więc... \n Nie przerywajcie tego! \n Zostawcie Titanica! \n Nie wyciągajcie go!\n Tam ciągle gra muzyka \n A oni w tańcu śnią \n Młody milioner \n Dziś zakochał się \n Bal już się zaczął \n Wszyscy tańczą - więc...\n Nie przerywajcie tego!\n Zostawcie Titanica! \n Nie wyciągajcie go! \n Tam ciągle gra muzyka\n  A oni w tańcu śnią \n Niezatapialnie śnią \n Nieosiągalnie śnią\n  Nieosiągalny, niezatapialny sen\n Zostawcie Titanica! \n Nie wyciągajcie go!\n  Tam ciągle gra muzyka \n A oni w tańcu śnią\n  Niezatapialny sen...\n  Zostawcie Titanica!\n  Zostawcie Titanica!",
+	        "rating": 123.0,
+	        "published": "1988-05-07",
+	        "id_artist": 1,
+	        "id_album": 2,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+},
+{
+	"model": "main.song",
+	"pk": 6,
+	"fields": {
+	        "title": "Chcemy być sobą",
+	        "language": "Polski",
+	        "length": 528,
+	        "lyrics": "Chciałbym być sobą\n  Chciałbym być sobą jeszcze\n  Chciałbym być sobą\n Chciałbym być sobą wreszcie\n Chciałbym być sobą \n Chciałbym być sobą jeszcze \n Chciałbym być sobą\n Chciałbym być sobą wreszcie\n  Jak co dzień rano, bułkę maślaną\n Popijam kawą, nad gazety plamą\n  Nikt mi nie powie, wiem co mam robic\n  Szklanką o ścianę rzucam, chcę wychodzic\n  Na klatce stoi cieć, co się boi \n Nawet odsłonić, miotłę ściska w dłoni\n Ortalion szary, chwytam za bary \n I przerażonej twarzy krzyczę prosto w nos!\n Chciałbym być sobą \n Chciałbym być sobą jeszcze \n Chciałbym być sobą\n Chciałbym być sobą wreszcie \n Chciałbym być sobą \n Chciałbym być sobą jeszcze\n  Chciałbym być sobą \n Chciałbym być sobą wreszcie\n Trzymam się ściany, niczym pijany\n  Tłum wkoło tańczy tangiem opętany\n  Stopy zmęczone, depczą koronę \n Król balu zwleka, oczy ma szalone \n Magda w podzięce, chwyta me rece \n I nie ma sprawy, ślicznie jej w sukience \n Po co sie śpieszysz, po co sie śpieszysz\n Przecież do końca życia mamy na to czas!\n  Aby być sobą\n  Aby być sobą jeszcze \n Aby być sobą \n Aby byc sobą wreszcie \n Chciałbym być sobą\n Chciałbym być sobą jeszcze\n  Chciałbym być sobą\n Chciałbym być sobą wreszcie\n Chcemy być sobą\n  Chcemy być sobą jeszcze\n Chcemy być sobą\n  Chcemy być sobą wreszcie\n Chcemy być sobą\n Chcemy być sobą jeszcze",
+	        "rating": 4.0,
+	        "published": "1981-02-15",
+	        "id_artist": 2,
+	        "id_album": 2,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+},
+{
+	"model": "main.song",
+	"pk": 7,
+	"fields": {
+	        "title": "Nie płacz Ewka",
+	        "language": "Polski",
+	        "length": 543,
+	        "lyrics": "Nie płacz Ewka, bo tu miejsca brak, na twe babskie łzy \n Po ulicy miłość hula wiatr wśród rozbitych szyb\n  Patrz poeci śliczni prawdy sens roztrwonili w grach \n W półlitrówkach pustych SOS wysyłają w świat \n Żegnam was, już wiem \n Nie załatwię wszystkich pilnych spraw \n Idę sam, właśnie tam, gdzie czekają mnie \n Tam przyjaciół kilku mam od lat \n Dla nich zawsze śpiewam, dla nich gram \n Jeszcze raz żegnam was, nie spotkamy się \n Proza życia to przyjaźni kat, pęka cienka nić \n Telewizor, meble, mały fiat: oto marzeń szczyt \n Hej, prorocy moi z gniewnych lat, obrastacie w tłuszcz \n Już was w swoje szpony dopadł szmal, zdrada płynie z ust \n Żegnam was, już wiem\n  Nie załatwię wszystkich pilnych spraw\n  Idę sam, właśnie tam, gdzie czekają mnie\n  Tam przyjaciół kilku mam od lat \n Dla nich zawsze śpiewam, dla nich gram \n Jeszcze raz żegnam was, nie spotkamy się \n Żegnam was, już wiem \n Nie załatwię wszystkich pilnych spraw\n  Idę sam, właśnie tam, gdzie czekają mnie\n  Tam przyjaciół kilku mam od lat \n Dla nich zawsze śpiewam, dla nich gram\n  Jeszcze raz żegnam was, nie spotkamy się",
+	        "rating": 3.0,
+	        "published": "1981-02-15",
+	        "id_artist": 2,
+	        "id_album": 2,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+},
+{
+	"model": "main.song",
+	"pk": 8,
+	"fields": {
+	        "title": "Czerwony jak cegła",
+	        "language": "Polski",
+	        "length": 515,
+	        "lyrics": "Nie wiem jak mam to zrobić, ona zawstydza mnie \n Strach ma tak wielkie oczy, wokół ciemno jest \n Czuję się jak Benjamin i udaję, że śpię \n Może walnę kilka drinków, one nakręcą mnie \n Nakręcą mnie! \n Nie wiem jak mam to zrobić, by mężczyzną się stać \n I nie wypaść ze swej roli, tego co pierwszy raz \n Gładzę czule jej ciało, skradam się do jej ust\n  Wiem, że to jeszcze za mało, aby Ciebie mieć\n  No aby Ciebie, Ciebie mieć!\n  Czerwony jak cegła, rozgrzany jak piec\n  Muszę mieć, muszę ją mieć \n Czerwony jak cegła, rozgrzany jak piec\n  Muszę mieć, no muszę ją mieć\n  Nie, nie, nie mogę tak odejść, gdy kusi mnie grzech \n Muszę mieć, muszę ją mieć \n Nie wiem jak to się stało, ona chyba już śpi \n Leżę obok pełen wstydu, krótki to był zryw \n Będzie lepiej, gdy pójdę, nie chcę patrzyć jej w twarz \n Może kiedyś da mi szansę, spróbować jeszcze raz \n Jeszcze raz, jeszcze jeden! \n Czerwony jak cegła, rozgrzany jak piec \n Muszę mieć, muszę ją mieć \n Czerwony jak cegła, rozgrzany jak piec \n Muszę mieć, no ja muszę ją mieć \n Czerwony jak cegła, rozgrzany jak piec\n  Muszę mieć, muszę, muszę ją mieć, no muszę ją mieć\n  Czerwony jak cegła, rozgrzany jak piec\n  Muszę mieć, no ja muszę no muszę, muszę ją mieć, muszę ją mieć",
+	        "rating": 4.0,
+	        "published": "1985-01-28",
+	        "id_artist": 3,
+	        "id_album": 4,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+},
+{
+	"model": "main.song",
+	"pk": 9,
+	"fields": {
+	        "title": "Whisky",
+	        "language": "Polski",
+	        "length": 510,
+	        "lyrics": "Mówią o mnie w mieście: Co z niego za typ?\n Wciąż chodzi pijany, pewno nie wie co to wstyd.\n  Brudny niedomytek, w stajni ciągle śpi!\n Czego szukasz w naszym mieście?\n Idź do diabła - mówią ludzie pełni cnót.\n  Ludzie pełni cnót.\n  Chciałem kiedyś zmądrzeć. Po ich stronie być.\n Spać w czystej pościeli, świeże mleko pić \n  Naprawdę chciałem zmądrzeć i po ich stronie być.\n  Pomyślałem więc o żonie, aby stać się jednym z nich\n Stać się jednym z nich, Stać się jednym z nich.\n  Już miałem na oku hacjendę, wspaniałą mówię Wam,\n  Lecz nie chciała tam zamieszkać żadna z pięknych dam\n  Wszystkie śmiały się wołając, wołając za mną wciąż:\n  Bardzo ładny frak masz Billy,\n  Ale kiepski byłby z Ciebie, kiepski byłby mąż.\n  Kiepski byłby z Ciebie mąż.\n  Whisky moja żono, jednak Tyś najlepszą z dam. \n Już mnie nie opuścisz, nie, nie będę sam. \n Mówią whisky to nie wszystko, można bez niej żyć.\n  Lecz nie wiedzą o tym ludzie, \n Że najgorzej w życiu to,\n  To samotnym być, to samotnym być.",
+	        "rating": 5.0,
+	        "published": "1985-01-28",
+	        "id_artist": 3,
+	        "id_album": 4,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+},
+{
+	"model": "main.song",
+	"pk": 10,
+	"fields": {
+	        "title": "Cryin",
+	        "language": "Angielski",
+	        "length": 508,
+	        "lyrics": "Mm, mm, mm, mm, mm, mm \n Mm, mm, mm, mm mm, mm, mm mm \n Come on \n Lovin you has got to be (Take me to the other side) \nLike the devil in the deep blue sea (Take me to the other side) \n Forget about your foolish pride (Take me to the other side)\n Oh take me to the other side (Take me to the other side)\n  My mama told me there'd be days like this  \n And man she wasn't foolin'\n  'Cause I just can't believe the way you kiss\n You opened up your mouth with bated breath\n  You said you'd never leave me\n  You love me, you hate me, I tried to take the loss\n  You're cryin' me a river but I got to get across\n  Lovin' you has got to be (Take me to the other side)\n  Like the devil in the deep blue sea (Take me to the other side)\n  Forget about your foolish pride (Take me to the other side)\n  Oh take me to the other side (Take me to the other side)\n  I'm lookin' for another kind of love\n Oh lordy, how I need it\n The kind that likes to leap without a shove\n Oh honey, best believe it\n To save a lot of time and foolish pride\n  I'll say what's on my mind, girl\n  You love me, you hate me, you cut me down to size\n You blinded me with love and, yeah, it opened up my eyes\n Lovin' you has got to be (Take me to the other side)\n Like the devil and the deep blue sea (Take me to the other side)\n  My conscience got to be my guide (Take me to the other side)\n Oh honey, take me, take me, take, take, take, take\n  Take me to the other side\n  I'm lookin' for another kind of love\n  Oh, lordy, how I need it\n  The kind that likes to leap without a shove\n  Honey, you best believe it\n  Now I ain't one for saying long goodbyes\n  I hope all is forgiven\n  You loved me, you hate me, I used to be your lover\n  You know you had it coming, girl\n  So take me to the other side\n  Lovin' you has got to be (Take me to the other side)\n Like the devil and the deep blue sea (Take me to the other side)\n  My conscience got to be my guide (Take me to the other side)\n  Oh honey, take me to the other side (Take me to the other side)\n  Lovin' you has got to be (Take me to the other side)\n  Like the devil in the deep blue sea (Take me to the other side)\n Forget about your foolish pride (Take me to the other side)\n  Oh take me to the other side",
+	        "rating": 4.0,
+	        "published": "1993-04-20",
+	        "id_artist": 4,
+	        "id_album": 5,
+	        "id_genre": 1,
+	        "id_label": 3
+	}
+},
+{
+	"model": "main.song",
+	"pk": 11,
+	"fields": {
+	        "title": "Crazy",
+	        "language": "Angielski",
+	        "length": 516,
+	        "lyrics": "Come here, baby \n You know you drive me up the wall\n  The way you make good on all the nasty tricks you pull\n Seems like we're makin' up more than we're makin' love\n  And it always seems you got somethin' on your mind other than me\n Girl, you got to change your crazy ways\n  You hear me?\n  Say you're leavin' on a seven thirty train\n  And that you're headin' out to Hollywood\n  Girl, you been givin' me that line so many times\n  It kinda gets like feelin' bad looks good, yeah\n  That kinda lovin' turns a man to a slave\n  That kinda lovin' sends a man right to his grave\n  I go crazy, crazy baby, I go crazy\n  You turn it on, then you're gone\n  Yeah, you drive me crazy, crazy, crazy for you baby\n  What can I do, honey? I feel like the color blue\n  You're packin' up your stuff\n  And talkin' like it's tough\n  And tryin' to tell me that it's time to go, yeah!\n  But, I know you ain't wearin' nothin' underneath that over coat\n  And it's all a show, yeah!\n That kinda lovin' makes me wanna pull down the shade, yeah!\n That kinda lovin', yeah, now I'm never, never, never gonna be the same\n  I go crazy, crazy baby, I go crazy\n  You turn it on, then you're gone\n  Yeah, you drive me crazy, crazy, crazy for you baby\n  What can I do, honey? I feel like the color blue\n  I'm losin' my mind, girl, cause I'm goin' cra\n  I need your love, honey, yeah!\n  I need your love\n  Crazy, crazy, crazy for you baby\n  I'm losin' my mind, girl, cause I'm goin' crazy\n  Crazy, crazy, crazy for you baby\n  You turn it on then, you're gone\n  Yeah, you drive me\n  Ooh, ooh, ooh, Ooh, ooh, ooh\n  Ow, yeah, yeah, yeah, yeah, yeah\n  Yeah, yeah, yeah, yeah, yeah\n  Yeah, yeah, yeah, yeah\n  Yeah, now baby, baby, baby, baby",
+	        "rating": 5.0,
+	        "published": "1993-04-20",
+	        "id_artist": 4,
+	        "id_album": 5,
+	        "id_genre": 1,
+	        "id_label": 3
+	}
+},
+{
+	"model": "main.song",
+	"pk": 12,
+	"fields": {
+	        "title": "Bohemian Rhapsody",
+	        "language": "Angielski",
+	        "length": 555,
+	        "lyrics": "Mama, just killed a man\n Put a gun against his head\n Pulled my trigger, now he's dead\n Mama, life had just begun\n  But now I've gone and thrown it all away\n Mama, ooh\n  Didn't mean to make you cry\n If I'm not back again this time tomorrow\n Carry on, carry on\n As if nothing really matters\n Too late, my time has come\n  Sends shivers down my spine\n  Body's aching all the time\n  Goodbye everybody, I've got to go\n Gotta leave you all behind and face the truth\n Mama, ooh\n I don't want to die \n I sometimes wish I'd never been born at all",
+	        "rating": 5.0,
+	        "published": "1975-11-21",
+	        "id_artist": 5,
+	        "id_album": 6,
+	        "id_genre": 1,
+	        "id_label": 4
+	}
+},
+{
+	"model": "main.song",
+	"pk": 13,
+	"fields": {
+	        "title": "Narcyz się nazywam",
+	        "language": "Polski",
+	        "length": 441,
+	        "lyrics": "To ja, Narcyz się nazywam\n Przepraszam i dziękuję - ja tych słów nie używam\n Jestem piękny i uroczy - popatrzcie w moje oczy\n Jestem przecież najpiękniejszy, a na pewno najskromniejszy\n  To ja, Narcyz się nazywam\n  Powodzenia oraz proszę - ja tych słów nie używam\n Jestem śliczny jak kwiatuszek, który wabi setki muszek\n Niepotrzebne mi podboje, aby wszystkie były moje\n  Niech dziś mój pocałunek na ustach innej gości\n  Byś mogła się przekonać, jak ona Ci zazdrości\n  Niech moje słodkie ręce dziś pieszczą innej ciało\n  Byś mogła się przekonać, jak krzyczy: \"Mało, mało!\"\n  Niech dziś mój pocałunek na ustach innej gości\n  Byś mogła się przekonać, jak ona Ci zazdrości\n Niech moje słodkie ręce dziś pieszczą innej ciało\n  Byś mogła się przekonać, jak krzyczy: \"Mało, mało!\"\n  To ja, Narcyz się nazywam\n  Przepraszam i dziękuję - ja tych słów nie używam\n  Jestem piękny i uroczy - popatrzcie w moje oczy\n Jestem przecież najpiękniejszy, a na pewno najskromniejszy\n Niech dziś mój pocałunek na ustach innej gości\n  Byś mogła się przekonać, jak ona Ci zazdrości\n Niech moje słodkie ręce dziś pieszczą innej ciało\n  Byś mogła się przekonać, jak krzyczy: \"Mało, mało!\"\n Niech dziś mój pocałunek na ustach innej gości\n  Byś mogła się przekonać, jak ona Ci zazdrości\n  Niech moje słodkie ręce dziś pieszczą innej ciało\n  Byś mogła się przekonać, jak krzyczy: \"Mało, mało!\"",
+	        "rating": 4.0,
+	        "published": "2000-07-01",
+	        "id_artist": 6,
+	        "id_album": 7,
+	        "id_genre": 2,
+	        "id_label": 5
+	}
+},
+{
+	"model": "main.song",
+	"pk": 14,
+	"fields": {
+	        "title": "Agnieszka już dawno...",
+	        "language": "Polski",
+	        "length": 350,
+	        "lyrics": "Było ciepłe lato, choć czasem padało\n  Dużo wina się piło i mało się spało\n  Tak zaczęła się wakacyjna przygoda\n  On był jeszcze młody i ona była młoda\n   Zakochani przy świetle księżyca nocami\n   Chodzili długimi leśnymi ścieżkami\n   Tak mijały tygodnie, lecz rozstania nadszedł czas\n   Zawsze mówił jedno zdanie: \"Moje śliczne ty kochanie!\"\n   Ostatniego dnia tych pamiętnych wakacji\n   Kochali się namiętnie w męskiej ubikacji\n   I przysięgli przed Bogiem, miłość wzajemną\n   Że za rok się spotkają i na zawsze ze sobą już będą!\n  Tęsknił za nią i pisał do niej listy miłosne\n   W samotności przeżył jesień, zimę, wiosnę\n   Nie wytrzymał do wakacji, postanowił ją odwiedzić\n   Bo nie dostał już dawno od niej żadnej odpowiedzi\n   Gdy przyjechał do jej domu po dość długiej podróży\n  Cieszył się, że ją zobaczy, w końcu tyle dla niej znaczył\n  Lecz gdy ona go ujrzała, szybko się schowała\n   Drzwi mu matka otworzyła i tak mu powiedziała\n   Agnieszka już dawno tutaj nie mieszka! O nie, nie, nie!\n   Agnieszka już dawno tutaj nie mieszka!\n   Agnieszka już dawno tutaj nie mieszka! O nie, o nie, nie, nie!\n   Agnieszka już dawno tutaj nie mieszka!\n   Rozczarował się, bo takie są zawody miłosne\n  Cierpiał całą jesień, zimę no i wiosnę\n   A gdy przeszło mu zupełnie, pojechał na wakacje\n   W tamto miejsce by zobaczyć tę pamiętną ubikację\n  Tak się stało, że przypadkiem ona też tam była\n   Ucieszyła się ogromnie, gdy go tylko zobaczyła\n  Zapytała się czy w sercu jego jest jeszcze Agnieszka\n   Odpowiedział jednym zdaniem: \"Moje śliczne Ty kochanie!\"\n   Agnieszka już dawno tutaj nie mieszka! O nie, nie, nie!\n  Agnieszka już dawno tutaj nie mieszka!\n   Agnieszka już dawno tutaj nie mieszka! O nie, o nie, nie, nie!\n  Agnieszka już dawno tutaj nie mieszka!",
+	        "rating": 5.0,
+	        "published": "2000-07-01",
+	        "id_artist": 6,
+	        "id_album": 7,
+	        "id_genre": 2,
+	        "id_label": 5
+	}
+},
+{
+	"model": "main.song",
+	"pk": 15,
+	"fields": {
+	        "title": "Gdzie ten, który powie mi",
+	        "language": "Polski",
+	        "length": 351,
+	        "lyrics": "Gdzież ten, co go czekam tak,\n  Że mi tchu aż w piersiach brak.\n  Gdzież ten, co obieca mi\n  Miłość do ostatnich dni. \n  Gdzie ten, który powie mi,\n  Że do końca swoich dni,\n  Że do ostatniego tchu\n  Będę całym życiem mu.\n  Tak jak tratwę morski prąd\n  Niesie tam gdzie suchy ląd\n   Tak ja chcę tą tratwą być\n  By nareszcie zacząć żyć.\n  Pragnę tak jak polny mak\n   Co mu pól w wazonie brak.\n   Nie chcę więcej makiem być\n   Chcę nareszcie zacząć żyć.\n   Gdzie ten który powie Ci\n   Ze do końca twoich dni,\n   Ze do ostatniego tchu\n  Bedziesz całym życiem mu.\n  Gdzie ten który powie Mi\n   Że do końca swoich dni,\n  Że do ostatniego tchu\n   Będę całym życiem Mu .\n  Bez kochania ginę tak\n   Jak zamknięty w klatce ptak.\n   Nie chcę więcej ptakiem być,\n  Chcę nareszcie zacząć żyć.",
+	        "rating": 2.0,
+	        "published": "2000-03-27",
+	        "id_artist": 7,
+	        "id_album": 8,
+	        "id_genre": 2,
+	        "id_label": 6
+	}
+},
+{
+	"model": "main.song",
+	"pk": 16,
+	"fields": {
+	        "title": "Czerwone korale",
+	        "language": "Polski",
+	        "length": 332,
+	        "lyrics": "Czerwone korale, czerwone niczym wino\n  Korale z polnej jarzębiny\n  I łzy dziewczyny i wielkie łzy\n Z miasta płaszcz i korale me\n  On pochwalił i rzekł\n  Że ze mną zatańczyć chce\n Jego dżins i mej bluzki biel \n Zwarły się w tangu wnet\n We włosy miał wtarty żel\n  Potem mnie na wycieczkę wziął\n I na wycieczce tej\n Mą bieluśką bluzkę zmiął\n  Wszyscy mi zazdrościli tam\n Gdy wróciłam i gdy\n  W pomiętej bluzeczce szłam\n Czerwone korale, czerwone niczym wino\n  Korale z polnej jarzębiny\n  I łzy dziewczyny i wielkie łzy\n  Wczoraj też na tych tańcach był\n  A na włosach mu żel\n  Jak srebrzysty księżyc lśnił\n  Tyle, że z Kryśką cały czas\n  Tańczył, a w stronę mą\n Nie spojrzał ni jeden raz\n  Z innym zatańczę gdy\n \n Z tą Kryśką będziesz ty\n  A potem czemu nie\n  Niech inny mą bluzkę zmnie\n  Laj laj laj laj la laj\n  Naj naj naj naj na naj\n  Na na na naj na naj\n  Na na na na na na na naj naj naj",
+	        "rating": 4.0,
+	        "published": "2000-03-27",
+	        "id_artist": 7,
+	        "id_album": 8,
+	        "id_genre": 2,
+	        "id_label": 6
+	}
+},
+{
+	"model": "main.song",
+	"pk": 17,
+	"fields": {
+	        "title": "Boskie Buenos (Buenos Aires)",
+	        "language": "Polski",
+	        "length": 327,
+	        "lyrics": "Serdecznie witam panie dziennikarzu\n Zanim opowiem panu o swych planach\n  Na imię mam Gladys del Carmen\n  La Torullo Gladys Semiramis\n  Chcę jeszcze raz pojechać do Europy\n  Lub jeszcze dalej do Buenos Aires\n  Więcej się można nauczyć podróżując\n  Podróżować, podróżować jest bosko\n  Ciągle pan pyta co sądzę o mężczyznach\n  Ach proszę pana jaki pan jest ciekawski\n  Naturalnie myślę o mężczyznach\n  Ale teraz muszę jechać do Buenos Aires\n  Kiedy wybrali mnie syreną morza\n Zaprosili mnie do pierwszej klasy\n  Częstowali mnie szampanem\n  Ja uwielbiam szampana w Buenos Aires\n  Buenos Aires\n  Buenos Aires\n  Buenos Aires\n  Buenos Aires\n Dalej pan pyta czy wierzę w astrologię\n Chiromancje i horoskopy\n  Wszystkie inne sprawy czarowników\n  Oraz tego co się tyczy ciał astralnych\n  Więc co się tyczy astrologii\n Oraz powiedzmy ciał astralnych\n  Planety Jowisz i innych obiektów\n Oczarowują mnie,\n  Lecz przede wszystkim w Buenos Aires\n  Tymczasem żegnam panie dziennikarzu\n  I niech pan nie zapomni przesłać\n  Stu egzemplarzy gazety z wywiadem\n  Podaruję panu zdjęcie z autografem\n  Chcę jeszcze raz pojechać do Europy\n  Lub jeszcze dalej do Buenos Aires\n  Więcej się można nauczyć podróżując\n Podróżować, podróżować jest bosko\n Buenos Aires\n  Buenos Aires\n  Buenos Aires\n  Buenos Aires\n  Aires, Aires, Aires, Aires \n Aires, Aires, Aires, Aires",
+	        "rating": 5.0,
+	        "published": "1980-08-25",
+	        "id_artist": 8,
+	        "id_album": 9,
+	        "id_genre": 1,
+	        "id_label": 7
+	}
+},
+{
+	"model": "main.song",
+	"pk": 18,
+	"fields": {
+	        "title": "Szare miraże",
+	        "language": "Polski",
+	        "length": 330,
+	        "lyrics": "Tylko dlatego, że jesteś nikim \n Możesz pogadać z drugim człowiekiem\n  Życie bogate, pełne sekretów\n  W szarym człowieku, w szarym człowieku\n  Oszczędne słowa, twarze, uśmiechy\n  Nie mów za dużo szary człowieku\n Choć jesteś nikim takim pozostań \n  Szare sekrety dla mnie pozostaw\n  Tysiące twarzy, setki miraży\n  To człowiek tworzy metamorfozy\n  Tysiące twarzy, setki miraży\n  To człowiek tworzy metamorfozy\n Tysiące twarzy, setki miraży\n  To człowiek tworzy metamorfozy\n  Metamorfozy, metamorfozy, metamorfozy, metamorfozy\n I tajemnicą niech pozostanie\n  Co zwykle jadasz na śniadanie\n  I czy w tygodniu kochasz się\n  Razy siedem czy też pięć\n  Twój dom wśród setek innych domów\n Z szarymi drzwiami, z szarym balonem\n Jeśli Cię dręczą szare sny\n Zapukaj do mych szarych drzwi\n  Tysiące twarzy, setki miraży\n To człowiek tworzy metamorfozy\n  Tysiące twarzy, setki miraży\n To człowiek tworzy metamorfozy\n  Tysiące twarzy, setki miraży\n To człowiek tworzy metamorfozy\n  Metamorfozy, metamorfozy, metamorfozy, metamorfozy\n Tylko dlatego, że jesteś nikim\n  Możesz pogadać z drugim człowiekiem\n  Życie bogate, pełne sekretów\n  W szarym człowieku, w szarym człowieku\n  Tysiące twarzy, setki miraży\n To człowiek tworzy metamorfozy\n Tysiące twarzy, setki miraży\n To człowiek tworzy metamorfozy\n  Tysiące twarzy, setki miraży\n  To człowiek tworzy metamorfozy\n  Metamorfozy, metamorfozy, metamorfozy, metamorfozy",
+	        "rating": 4.0,
+	        "published": "1980-08-25",
+	        "id_artist": 8,
+	        "id_album": 9,
+	        "id_genre": 1,
+	        "id_label": 7
+	}
+},
+{
+	"model": "main.song",
+	"pk": 19,
+	"fields": {
+	        "title": "Chłopaki nie płaczą",
+	        "language": "Polski",
+	        "length": 316,
+	        "lyrics": "Mówisz życie jak cukierek\n Gorzkie jest czasami\n Mówisz panna zostawiła\n Kumple dawno cię olali\n Ale nie bój nic - minie jakiś czas\n  Poczuj chłodny świt, wszystko przjedzie ci\n Uuh, chłopaki\n Uuh, nie płaczą\n Nie masz kaski - odpuść sobie\n  Jutro przecież też jest dzień\n Może kiedyś ci pomogę\n  Może ty nie wystawisz mnie\n Ale nie bój nic - minie jakiś czas\n  Poczuj chłodny świt, wszystko przjedzie ci\n Uuh, chłopaki\n  Uuh, nie płaczą\n  Mówisz życie jak cukierek\n  Gorzkie jest czasami \n  Mówisz panna zostawiła\n Kumple dawno cię olali\n Ale nie bój nic - minie jakiś czas\n Poczuj chłodny świt, wszystko przjedzie ci\n  Uuh, chłopaki\n  Uuh, nie płaczą\n  Nie masz kaski - odpuść sobie\n Jutro przecież też jest dzień\n  Może kiedyś ci pomogę\n Może ty nie wystawisz mnie\n  Uuh, chłopaki\n  Uuh, nie płaczą",
+	        "rating": 5.0,
+	        "published": "1997-09-15",
+	        "id_artist": 10,
+	        "id_album": 11,
+	        "id_genre": 1,
+	        "id_label": 5
+	}
+},
+{
+	"model": "main.song",
+	"pk": 20,
+	"fields": {
+	        "title": "Ona i ona",
+	        "language": "Polski",
+	        "length": 406,
+	        "lyrics": "Ona i ona, ona i ona poznały się w centrum miasta\n  Ona i ona, ona i ona poznały się w centrum miasta\n  Nie było dzieci w Kinderburgu, ani tłoku pod rotundą\n  Tylko ona i ona nie było zombich prosto z pracy\n  Straganów pod pałacem tylko ona i ona\n  Nie lubię go, on denerwuje mnie\n  Nie mam na czynsz, ja też chyba nie\n  Tylko ona i ona\n  Tylko ona i ona\n  Ona i ona mieszkają razem ona i ona sypiają razem\n  Bo dla nich piątek jest na pewno Almodovar i techno\n  Tylko ona i ona dla nich sobota nie umiera\n  Recepta od dilera tylko ona i ona\n  Nie lubię go, on denerwuje mnie\n  Nie mam na czynsz, ja też chyba nie\n Tylko ona i ona\n Tylko ona i ona",
+	        "rating": 2.0,
+	        "published": "1997-09-15",
+	        "id_artist": 10,
+	        "id_album": 11,
+	        "id_genre": 1,
+	        "id_label": 5
+	}
+},
+{
+	"model": "main.song",
+	"pk": 21,
+	"fields": {
+	        "title": "Jolka, Jolka pamiętasz",
+	        "language": "Polski",
+	        "length": 630,
+	        "lyrics": "Jolka, Jolka\n  Pamiętasz lato ze snu\n Gdy pisałaś: 'tak mi zle'\n  Urwij sie choćby zaraz\n Coś ze mną zrób\n Nie zostawiaj tu samego, o nie'.\n Żebrząc wciąż o benzynę\n Gnałem przez noc\n  Silnik rzeził ostatkiem sił\n Aby być znowu w Tobie\n  Śmiac się i kląć \n  Wszystko było tak proste w te dni.\n  Dziecko spało za ścianą\n  Czujne jak ptak\n Niechaj Bóg wyprostuje mu sny!\n  Powiedziałaś, że nigdy, że nigdy aż tak\n  Słodkie były, jak krew Twoje łzy\n  Emigrowałem z objęć Twych nad ranem\n  Dzień mnie wyganiał, nocą znów wracałem\n  Dane nam było, słońca zaćmienie\n Następne będzie, może za sto lat.\n  Plażą szły zakonnice, a słońce w dół\n  Wciąż spadało nie mogło spaść\n Mąż tam w świecie za funtem, odkładał funt\n Na Toyotę przepiekną, aż strach.\n  Mąż Twój wielbił porządek i pełne szkło\n Narzeczoną miał kiedyś, jak sen\n  Z autobusem Arabów zdradziła go\n  Nigdy nie był już sobą, o nie\n  Emigrowałem z ramion Twych nad ranem\n  Dzień mnie wyganiał, nocą znów wracałem\n  Dane nam było, słońca zaćmienie\n Następne będzie, może za sto lat.\n  W wielkiej żyliśmy farmie i rzadko tak\n Wypełzaliśmy na suchy ląd\n  Czarodziejka gorzałka tańczyła w nas\n Meta była o dwa kroki stąd.\n Nie wiem ciągle dlaczego zaczęło się tak\n  Czemu zgasło też nie wie nikt\n Sa wciąż różne koło mnie, nie budzę się sam\n  Ale nic nie jest proste w te dni.",
+	        "rating": 4.0,
+	        "published": "1984-05-10",
+	        "id_artist": 9,
+	        "id_album": 10,
+	        "id_genre": 1,
+	        "id_label": 2
+	}
+}
+]

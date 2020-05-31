@@ -1,0 +1,13 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+<h1>{{ object.title }}</h1>
+<p>Author: {{ object.id_artist.name }}</p>
+<p>Language: {{ object.language }}</p>
+<p>Rating: {{ object.rating }}</p>
+<p>Published: {{ object.published|date }}</p>
+<p>Lyrics: {{ object.lyrics }}</p>
+{% endblock %}
+
+

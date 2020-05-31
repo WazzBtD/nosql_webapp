@@ -1,0 +1,18 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+<h1>{{ object.name }}</h1>
+<p>Rating: {{ object.rating }}</p>
+<p>Bio: {{ object.bio }}</p>
+<h1>Songs</h1>
+<ul>
+{% for song in songs %}
+    <li><a href="{% url 'main:song-detail' song.id_song %}">{{ song.title }} - Album: {{ song.album }}</a></li>
+{% empty %}
+    <li>No songs yet.</li>
+{% endfor %}
+</ul>
+{% endblock %}
+
+
